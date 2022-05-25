@@ -7,8 +7,6 @@ Ogni volta che ne crei uno, stampalo.
 // faccio inserire un numero all'utente
 // e creo un array vuoto, che sarà generato successivamente
 const numberN = parseInt(prompt("Inserisci un numero"));
-const arrayRandom = [];
-
 
 // creo un ciclo che genererà N array per N numero inserito dall'utente
 for (let i = 0; i < numberN; i++) {
